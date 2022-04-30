@@ -1,2 +1,7 @@
-# cherry-gitbook
-깃북
+---
+description: 자바스크립트로 코딩 테스트 준비하기
+---
+
+# 소개
+
+"코딩테스트 광탈방지 A to Z: JavaScript " 강의를 듣고공부한 내용을정리했씁니다. &#x20;
